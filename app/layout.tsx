@@ -13,6 +13,9 @@ export const metadata: Metadata = {
   title: "AI Hunter by Lush AI Info - AI-Powered Lead Discovery at Scale",
   description:
     "AI Hunter by Lush AI Info: Find verified contact emails and auto-enrich with our AI-powered platform. B2B sales intelligence for lead generation and contact discovery.",
+  icons: {
+    icon: "/favicon.png",
+  },
   keywords: "AI-powered prospecting, lead intelligence, contact discovery, AI Hunter, Lush AI Info, B2B sales tools",
   authors: [{ name: "Lush AI Info Solutions" }],
   openGraph: {
